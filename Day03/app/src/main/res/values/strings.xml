@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Day03</string>
+    <string name="app_names">户外植物识别系统</string>
+    <string name="app_nadmes">让你快速知道植物信息</string>
+</resources>
